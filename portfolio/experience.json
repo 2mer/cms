@@ -3,7 +3,163 @@
 		{
 			"name": "JavaScript",
 			"confidence": 0.99
-		}
+		},
+		{
+			"name": "TypeScript",
+			"confidence": 0.95
+		},
+		{
+			"name": "React",
+			"confidence": 0.99
+		},
+		{
+			"name": "Preact",
+			"confidence": 0.95
+		},
+		{
+			"name": "React Redux",
+			"confidence": 0.85
+		},
+		{
+			"name": "React Query",
+			"confidence": 0.85
+		},
+		{
+			"name": "SWR",
+			"confidence": 0.85
+		},
+		{
+			"name": "HTML",
+			"confidence": 0.97
+		},
+		{
+			"name": "CSS",
+			"confidence": 0.97
+		},
+		{
+			"name": "SCSS",
+			"confidence": 0.80
+		},
+		{
+			"name": "Webpack",
+			"confidence": 0.85
+		},
+		{
+			"name": "Vite",
+			"confidence": 0.85
+		},
+		{
+			"name": "Node",
+			"confidence": 0.90
+		},
+		{
+			"name": "Express",
+			"confidence": 0.90
+		},
+		{
+			"name": "Docker",
+			"confidence": 0.85
+		},
+		{
+			"name": "Electron",
+			"confidence": 0.80
+		},
+		{
+			"name": "Regex",
+			"confidence": 0.90
+		},
+		{
+			"name": "NPM",
+			"confidence": 0.90
+		},
+		{
+			"name": "Postgresql",
+			"confidence": 0.80
+		},
+		{
+			"name": "AWS",
+			"confidence": 0.60
+		},
+		{
+			"name": "Java",
+			"confidence": 0.89
+		},
+		{
+			"name": "Python",
+			"confidence": 0.85
+		},
+		{
+			"name": "Bash",
+			"confidence": 0.90
+		},
+		{
+			"name": "Linux",
+			"confidence": 0.85
+		},
+		{
+			"name": "Discord.js",
+			"confidence": 0.90
+		},
+		{
+			"name": "Puppeteer",
+			"confidence": 0.90
+		},
+		{
+			"name": "OpenSeadragon",
+			"confidence": 0.90
+		},
+		{
+			"name": "Chrome Extensions",
+			"confidence": 0.90
+		},
+		{
+			"name": "Unity",
+			"confidence": 0.85
+		},
+		{
+			"name": "Godot",
+			"confidence": 0.80
+		},
+		{
+			"name": "C#",
+			"confidence": 0.85
+		},
+		{
+			"name": "Kotlin",
+			"confidence": 0.85
+		},
+		{
+			"name": "Inkscape",
+			"confidence": 0.85
+		},
+		{
+			"name": "Aseprite",
+			"confidence": 0.85
+		},
+		{
+			"name": "Krita",
+			"confidence": 0.82
+		},
+		{
+			"name": "Lua",
+			"confidence": 0.86
+		},
+		{
+			"name": "Perl",
+			"confidence": 0.84
+		},
+		{
+			"name": "Yarn",
+			"confidence": 0.90
+		},
+		{
+			"name": "PNPM",
+			"confidence": 0.90
+		},
+		{
+			"name": "Lerna",
+			"confidence": 0.85
+		},
 	],
 	"work": [
 		{

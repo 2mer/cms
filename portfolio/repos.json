@@ -1,0 +1,22 @@
+{
+	"items": [
+		{
+			"displayName": "Tilda - Attribute Highlighter",
+			"icon": "https://github.com/2mer/AttributeHighlighter/blob/master/public/icon128.png",
+			"link": "https://github.com/2mer/AttributeHighlighter",
+			"tags": [
+				"ChromeExtension",
+				"TS"
+			]
+		},
+		{
+			"displayName": "rjstry",
+			"icon": "https://github.com/2mer/rjstry/blob/main/images/rjstry.svg",
+			"link": "https://github.com/2mer/rjstry",
+			"tags": [
+				"NPM Package",
+				"TS"
+			]
+		}
+	]
+}

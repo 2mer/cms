@@ -1,0 +1,18 @@
+{
+	"knowledge": [
+		{
+			"name": "JavaScript",
+			"confidence": 0.99
+		}
+	],
+	"work": [
+		{
+			"start": "Sep 2017",
+			"end": "Feb 2018",
+			"link": "https://il.linkedin.com/company/scopio-labs"
+		},
+		{
+			"start": "Oct 2020"
+		}
+	]
+}

@@ -2,6 +2,7 @@
 	"items": [
 		{
 			"displayName": "Tilda - Attribute Highlighter",
+			"description": "Chrome Extension assisting in highlighting DOM nodes matching selectors",
 			"icon": "https://github.com/2mer/AttributeHighlighter/blob/master/public/icon128.png",
 			"link": "https://github.com/2mer/AttributeHighlighter",
 			"tags": [
@@ -11,8 +12,104 @@
 		},
 		{
 			"displayName": "rjstry",
+			"description": "Modular matching library",
 			"icon": "https://github.com/2mer/rjstry/blob/main/images/rjstry.svg",
 			"link": "https://github.com/2mer/rjstry",
+			"tags": [
+				"NPM Package",
+				"TS"
+			]
+		},
+		{
+			"displayName": "m-it",
+			"description": "Minimal JS Event Emmiter",
+			"icon": "https://github.com/2mer/m-it/blob/main/images/m-it.svg",
+			"link": "https://github.com/2mer/m-it",
+			"tags": [
+				"NPM Package",
+				"TS"
+			]
+		},
+		{
+			"displayName": "Semantic Scopes",
+			"description": "VSCode extension to help you visually separate code blocks within any file format",
+			"icon": "https://github.com/2mer/semanticscopes/blob/main/images/semanticscopes.png",
+			"link": "https://github.com/2mer/semanticscopes",
+			"tags": [
+				"VSCode Extension",
+				"TS"
+			]
+		},
+		{
+			"displayName": "SMAR",
+			"description": "Pluggable electron based automated virtual input application",
+			"link": "https://github.com/2mer/semanticscopes",
+			"tags": [
+				"VSCode Extension",
+				"TS"
+			]
+		},
+		{
+			"displayName": "IdleJS",
+			"description": "automation based JS idle game",
+			"link": "https://github.com/2mer/idlejs",
+			"tags": [
+				"Game",
+				"TS"
+			]
+		},
+		{
+			"displayName": "Hendricks",
+			"description": "Pluggable discord bot application library",
+			"link": "https://github.com/2mer/hendricks",
+			"tags": [
+				"Meme",
+				"TS"
+			]
+		},
+		{
+			"displayName": "PIXIL",
+			"description": "Open-source JS pixel editor powered by PIXI.js",
+			"icon": "https://github.com/2mer/PIXIL/blob/main/public/pixil_logox200.png",
+			"link": "https://github.com/2mer/PIXIL",
+			"tags": [
+				"NPM Package",
+				"TS"
+			]
+		},
+		{
+			"displayName": "Krosty Avatar",
+			"description": "Uncanny avatar dump made with stable diffusion",
+			"link": "https://krosty-avatar.netlify.app/",
+			"tags": [
+				"Meme",
+				"TS"
+			]
+		},
+		{
+			"displayName": "waystone",
+			"description": "World-building exercise of accidentally stumbling across the intergalactic web",
+			"icon": "https://github.com/2mer/waystone/blob/main/public/waystone.svg",
+			"link": "https://waystone.netlify.app/",
+			"tags": [
+				"World-building",
+				"Meme",
+				"TS"
+			]
+		},
+		{
+			"displayName": "Magestro",
+			"description": "Flexible Magic System demo / proof of concept",
+			"link": "https://magestro.netlify.app/#/Introduction",
+			"tags": [
+				"Game",
+				"TS"
+			]
+		},
+		{
+			"displayName": "print-xml",
+			"description": "Render JSX to SVG at runtime, streamline inline svg creation with react",
+			"link": "https://magestro.netlify.app/#/Introduction",
 			"tags": [
 				"NPM Package",
 				"TS"

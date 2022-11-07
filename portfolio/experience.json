@@ -2,163 +2,295 @@
 	"knowledge": [
 		{
 			"name": "JavaScript",
-			"confidence": 0.99
+			"confidence": 0.99,
+			"tags": [
+				"frontend",
+				"backend"
+			]
 		},
 		{
 			"name": "TypeScript",
-			"confidence": 0.95
+			"confidence": 0.95,
+			"tags": [
+				"frontend",
+				"backend"
+			]
 		},
 		{
 			"name": "React",
-			"confidence": 0.99
+			"confidence": 0.99,
+			"tags": [
+				"frontend"
+			]
 		},
 		{
 			"name": "Preact",
-			"confidence": 0.95
+			"confidence": 0.95,
+			"tags": [
+				"frontend"
+			]
 		},
 		{
 			"name": "React Redux",
-			"confidence": 0.85
+			"confidence": 0.85,
+			"tags": [
+				"frontend"
+			]
 		},
 		{
 			"name": "React Query",
-			"confidence": 0.85
+			"confidence": 0.85,
+			"tags": [
+				"frontend"
+			]
 		},
 		{
 			"name": "SWR",
-			"confidence": 0.85
+			"confidence": 0.85,
+			"tags": [
+				"frontend"
+			]
 		},
 		{
 			"name": "HTML",
-			"confidence": 0.97
+			"confidence": 0.97,
+			"tags": [
+				"frontend"
+			]
 		},
 		{
 			"name": "CSS",
-			"confidence": 0.97
+			"confidence": 0.97,
+			"tags": [
+				"frontend"
+			]
 		},
 		{
 			"name": "SCSS",
-			"confidence": 0.80
+			"confidence": 0.80,
+			"tags": [
+				"frontend"
+			]
 		},
 		{
 			"name": "Webpack",
-			"confidence": 0.85
+			"confidence": 0.85,
+			"tags": [
+				"frontend"
+			]
 		},
 		{
 			"name": "Vite",
-			"confidence": 0.85
+			"confidence": 0.85,
+			"tags": [
+				"frontend"
+			]
 		},
 		{
 			"name": "Node",
-			"confidence": 0.90
+			"confidence": 0.90,
+			"tags": [
+				"frontend",
+				"backend"
+			]
 		},
 		{
 			"name": "Express",
-			"confidence": 0.90
+			"confidence": 0.90,
+			"tags": [
+				"backend"
+			]
 		},
 		{
 			"name": "Docker",
-			"confidence": 0.85
+			"confidence": 0.85,
+			"tags": [
+				"backend"
+			]
 		},
 		{
 			"name": "Electron",
-			"confidence": 0.80
+			"confidence": 0.80,
+			"tags": [
+				"frontend",
+				"backend"
+			]
 		},
 		{
 			"name": "Regex",
-			"confidence": 0.90
+			"confidence": 0.90,
+			"tags": [
+				"frontend",
+				"backend"
+			]
 		},
 		{
 			"name": "NPM",
-			"confidence": 0.90
+			"confidence": 0.90,
+			"tags": [
+				"frontend",
+				"backend"
+			]
 		},
 		{
 			"name": "Postgresql",
-			"confidence": 0.80
+			"confidence": 0.80,
+			"tags": [
+				"backend"
+			]
 		},
 		{
 			"name": "AWS",
-			"confidence": 0.60
+			"confidence": 0.60,
+			"tags": [
+				"backend"
+			]
 		},
 		{
 			"name": "Java",
-			"confidence": 0.89
+			"confidence": 0.89,
+			"tags": [
+				"frontend",
+				"backend"
+			]
 		},
 		{
 			"name": "Python",
-			"confidence": 0.85
+			"confidence": 0.85,
+			"tags": [
+				"backend"
+			]
 		},
 		{
 			"name": "Bash",
-			"confidence": 0.90
+			"confidence": 0.90,
+			"tags": [
+				"backend"
+			]
 		},
 		{
 			"name": "Linux",
-			"confidence": 0.85
+			"confidence": 0.85,
+			"tags": [
+				"backend"
+			]
 		},
 		{
 			"name": "Discord.js",
-			"confidence": 0.90
+			"confidence": 0.90,
+			"tags": [
+				"backend"
+			]
 		},
 		{
 			"name": "Puppeteer",
-			"confidence": 0.90
+			"confidence": 0.90,
+			"tags": [
+				"backend"
+			]
 		},
 		{
 			"name": "OpenSeadragon",
-			"confidence": 0.90
+			"confidence": 0.90,
+			"tags": [
+				"backend"
+			]
 		},
 		{
 			"name": "Chrome Extensions",
-			"confidence": 0.90
+			"confidence": 0.90,
+			"tags": [
+				"frontend"
+			]
 		},
 		{
 			"name": "Unity",
-			"confidence": 0.85
+			"confidence": 0.85,
+			"tags": [
+				"design"
+			]
 		},
 		{
 			"name": "Godot",
-			"confidence": 0.80
+			"confidence": 0.80,
+			"tags": [
+				"design"
+			]
 		},
 		{
 			"name": "C#",
-			"confidence": 0.85
+			"confidence": 0.85,
+			"tags": [
+				"frontend",
+				"backend"
+			]
 		},
 		{
 			"name": "Kotlin",
-			"confidence": 0.85
+			"confidence": 0.85,
+			"tags": [
+				"frontend",
+				"backend"
+			]
 		},
 		{
 			"name": "Inkscape",
-			"confidence": 0.85
+			"confidence": 0.85,
+			"tags": [
+				"design"
+			]
 		},
 		{
 			"name": "Aseprite",
-			"confidence": 0.85
+			"confidence": 0.85,
+			"tags": [
+				"design"
+			]
 		},
 		{
 			"name": "Krita",
-			"confidence": 0.82
+			"confidence": 0.82,
+			"tags": [
+				"design"
+			]
 		},
 		{
 			"name": "Lua",
-			"confidence": 0.86
+			"confidence": 0.86,
+			"tags": [
+				"backend"
+			]
 		},
 		{
 			"name": "Perl",
-			"confidence": 0.84
+			"confidence": 0.80,
+			"tags": [
+				"backend"
+			]
 		},
 		{
 			"name": "Yarn",
-			"confidence": 0.90
+			"confidence": 0.90,
+			"tags": [
+				"frontend",
+				"backend"
+			]
 		},
 		{
 			"name": "PNPM",
-			"confidence": 0.90
+			"confidence": 0.90,
+			"tags": [
+				"frontend",
+				"backend"
+			]
 		},
 		{
 			"name": "Lerna",
-			"confidence": 0.85
+			"confidence": 0.85,
+			"tags": [
+				"frontend",
+				"backend"
+			]
 		}
 	],
 	"work": [

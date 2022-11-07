@@ -3,7 +3,7 @@
 		{
 			"displayName": "Tilda - Attribute Highlighter",
 			"description": "Chrome Extension assisting in highlighting DOM nodes matching selectors",
-			"icon": "https://github.com/2mer/AttributeHighlighter/blob/master/public/icon128.png",
+			"icon": "https://github.com/2mer/AttributeHighlighter/blob/master/public/icon128.png?raw=true",
 			"link": "https://github.com/2mer/AttributeHighlighter",
 			"tags": [
 				"ChromeExtension",
@@ -13,7 +13,7 @@
 		{
 			"displayName": "rjstry",
 			"description": "Modular matching library",
-			"icon": "https://github.com/2mer/rjstry/blob/main/images/rjstry.svg",
+			"icon": "https://raw.githubusercontent.com/2mer/rjstry/main/images/rjstry.svg",
 			"link": "https://github.com/2mer/rjstry",
 			"tags": [
 				"NPM Package",
@@ -23,7 +23,7 @@
 		{
 			"displayName": "m-it",
 			"description": "Minimal JS Event Emmiter",
-			"icon": "https://github.com/2mer/m-it/blob/main/images/m-it.svg",
+			"icon": "https://raw.githubusercontent.com/2mer/m-it/main/images/m-it.svg",
 			"link": "https://github.com/2mer/m-it",
 			"tags": [
 				"NPM Package",
@@ -33,7 +33,7 @@
 		{
 			"displayName": "Semantic Scopes",
 			"description": "VSCode extension to help you visually separate code blocks within any file format",
-			"icon": "https://github.com/2mer/semanticscopes/blob/main/images/semanticscopes.png",
+			"icon": "https://raw.githubusercontent.com/2mer/semanticscopes/main/images/semanticscopes.png",
 			"link": "https://github.com/2mer/semanticscopes",
 			"tags": [
 				"VSCode Extension",
@@ -70,7 +70,7 @@
 		{
 			"displayName": "PIXIL",
 			"description": "Open-source JS pixel editor powered by PIXI.js",
-			"icon": "https://github.com/2mer/PIXIL/blob/main/public/pixil_logox200.png",
+			"icon": "https://github.com/2mer/PIXIL/blob/main/public/pixil_logox200.png?raw=true",
 			"link": "https://github.com/2mer/PIXIL",
 			"tags": [
 				"NPM Package",
@@ -89,7 +89,7 @@
 		{
 			"displayName": "waystone",
 			"description": "World-building exercise of accidentally stumbling across the intergalactic web",
-			"icon": "https://github.com/2mer/waystone/blob/main/public/waystone.svg",
+			"icon": "https://raw.githubusercontent.com/2mer/waystone/main/public/waystone.svg",
 			"link": "https://waystone.netlify.app/",
 			"tags": [
 				"World-building",
